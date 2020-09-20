@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="363e4b48-3e38-467a-8735-c7c9890e45c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,9 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -48,7 +53,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -58,21 +65,25 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1600582871629">
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1600629578419">
       <screen x="1920" y="68" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.bottom/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600582871629" />
-    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1600582871629">
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600629578419" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1600629578419">
       <screen x="1920" y="68" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.center/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600582871629" />
-    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1600582871629">
+    <state width="1491" height="210" key="GridCell.Tab.0.center/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600629578419" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1600629578419">
       <screen x="1920" y="68" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.left/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600582871629" />
-    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1600582871629">
+    <state width="1491" height="210" key="GridCell.Tab.0.left/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600629578419" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1600629578419">
       <screen x="1920" y="68" width="1536" height="824" />
     </state>
-    <state width="1491" height="210" key="GridCell.Tab.0.right/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600582871629" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600629578419" />
+    <state x="2169" y="68" key="SettingsEditor" timestamp="1600583932039">
+      <screen x="1920" y="68" width="1536" height="824" />
+    </state>
+    <state x="2169" y="68" key="SettingsEditor/1920.68.1536.824/0.0.1536.824@1920.68.1536.824" timestamp="1600583932039" />
   </component>
 </project>
